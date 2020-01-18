@@ -4,4 +4,7 @@ def my_square(x):
   """
   return (x**2)
 
+def my_square2(x):
+  return (2*x)
+
 print(my_square(7))
